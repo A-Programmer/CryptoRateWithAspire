@@ -1,0 +1,36 @@
+﻿@model List<PersonItem>;
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>People</h1>
+<a asp-action="Create" class="btn btn-primary">Create new Person</a>
+<br />
+<br />
+<br />
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th scope="col">Id</th>
+            <th scope="col">First</th>
+            <th scope="col">Last</th>
+            <th scope="col">Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(PersonItem person in Model)
+        {
+            <tr>
+                <th scope="row">@person.Id</th>
+                <td>@person.FirstName</td>
+                <td>@person.LastName</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@person.Id">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@person.Id">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@person.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

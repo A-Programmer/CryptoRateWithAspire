@@ -1,0 +1,12 @@
+C:\Users\MrSad\Projects\Tests\AspireTests\AddToExistingProjects\AddToExistingProjects.ServiceDefaults\bin\Debug\net8.0\AddToExistingProjects.ServiceDefaults.deps.json
+C:\Users\MrSad\Projects\Tests\AspireTests\AddToExistingProjects\AddToExistingProjects.ServiceDefaults\bin\Debug\net8.0\AddToExistingProjects.ServiceDefaults.dll
+C:\Users\MrSad\Projects\Tests\AspireTests\AddToExistingProjects\AddToExistingProjects.ServiceDefaults\bin\Debug\net8.0\AddToExistingProjects.ServiceDefaults.pdb
+C:\Users\MrSad\Projects\Tests\AspireTests\AddToExistingProjects\AddToExistingProjects.ServiceDefaults\obj\Debug\net8.0\AddToExistingProjects.ServiceDefaults.csproj.AssemblyReference.cache
+C:\Users\MrSad\Projects\Tests\AspireTests\AddToExistingProjects\AddToExistingProjects.ServiceDefaults\obj\Debug\net8.0\AddToExistingProjects.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MrSad\Projects\Tests\AspireTests\AddToExistingProjects\AddToExistingProjects.ServiceDefaults\obj\Debug\net8.0\AddToExistingProjects.ServiceDefaults.AssemblyInfoInputs.cache
+C:\Users\MrSad\Projects\Tests\AspireTests\AddToExistingProjects\AddToExistingProjects.ServiceDefaults\obj\Debug\net8.0\AddToExistingProjects.ServiceDefaults.AssemblyInfo.cs
+C:\Users\MrSad\Projects\Tests\AspireTests\AddToExistingProjects\AddToExistingProjects.ServiceDefaults\obj\Debug\net8.0\AddToExistingProjects.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Users\MrSad\Projects\Tests\AspireTests\AddToExistingProjects\AddToExistingProjects.ServiceDefaults\obj\Debug\net8.0\AddToExistingProjects.ServiceDefaults.dll
+C:\Users\MrSad\Projects\Tests\AspireTests\AddToExistingProjects\AddToExistingProjects.ServiceDefaults\obj\Debug\net8.0\refint\AddToExistingProjects.ServiceDefaults.dll
+C:\Users\MrSad\Projects\Tests\AspireTests\AddToExistingProjects\AddToExistingProjects.ServiceDefaults\obj\Debug\net8.0\AddToExistingProjects.ServiceDefaults.pdb
+C:\Users\MrSad\Projects\Tests\AspireTests\AddToExistingProjects\AddToExistingProjects.ServiceDefaults\obj\Debug\net8.0\ref\AddToExistingProjects.ServiceDefaults.dll

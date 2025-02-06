@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Multiple Pojects",
+    "Projects": [
+      {
+        "Path": "Project.Api\\Project.Api.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Project.MvcClient\\Project.MvcClient.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
