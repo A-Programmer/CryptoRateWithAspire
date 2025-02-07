@@ -11,21 +11,10 @@
 using System;
 using System.Reflection;
 
-[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("63a6ecd6-19cb-4f1a-b5a7-adca96315696")]
-[assembly: System.Reflection.AssemblyMetadata("dcpclipath", "C:\\Users\\MrSad\\.nuget\\packages\\aspire.hosting.orchestration.win-x64\\8.2.2\\tools\\d" +
-    "cp.exe")]
-[assembly: System.Reflection.AssemblyMetadata("dcpextensionpaths", "C:\\Users\\MrSad\\.nuget\\packages\\aspire.hosting.orchestration.win-x64\\8.2.2\\tools\\e" +
-    "xt\\")]
-[assembly: System.Reflection.AssemblyMetadata("dcpbinpath", "C:\\Users\\MrSad\\.nuget\\packages\\aspire.hosting.orchestration.win-x64\\8.2.2\\tools\\e" +
-    "xt\\bin\\")]
-[assembly: System.Reflection.AssemblyMetadata("apphostprojectpath", "C:\\Users\\MrSad\\Projects\\Tests\\AspireTests\\AddToExistingProjects\\AddToExistingProj" +
-    "ects.AppHost")]
-[assembly: System.Reflection.AssemblyMetadata("aspiredashboardpath", "C:\\Users\\MrSad\\.nuget\\packages\\aspire.dashboard.sdk.win-x64\\8.2.2\\tools\\Aspire.Da" +
-    "shboard.exe")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("AddToExistingProjects.AppHost")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6809185b14f6115d708113d6ad3a4ffa99b22840")]
 [assembly: System.Reflection.AssemblyProductAttribute("AddToExistingProjects.AppHost")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AddToExistingProjects.AppHost")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

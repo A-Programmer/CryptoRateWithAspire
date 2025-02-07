@@ -1,12 +1,24 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using Project.Api.Contracts;
 using Project.Api.Data;
+using Project.Api.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
 builder.AddServiceDefaults();
 
 builder.Services.AddControllers();
+
+builder.Services.AddHttpContextAccessor();
+
+builder.Services.AddTransient<IGenericHttpService, GenericHttpService>();
+
+builder.Services.AddHttpClient("CoinMarketCap", client =>
+{
+    client.BaseAddress = new Uri(builder.Configuration["Clients:CoinMarketCap:BaseHttpsUrl"]);
+    client.DefaultRequestHeaders.Add("X-CMC_PRO_API_KEY", "134248cb-4248-471e-82f7-91c765cc3d9c");
+});
 
 builder.Services.AddApiVersioning(options =>
 {
@@ -25,11 +37,6 @@ builder.Services.AddSwaggerGen(options =>
 });
 
 builder.AddSqlServerDbContext<ApplicationDbContext>(connectionName: "sqlServer");
-
-//builder.Services.AddDbContext<ApplicationDbContext>(options =>
-//{
-//    options.UseSqlServer(builder.Configuration.GetConnectionString("Default"));
-//});
 
 var app = builder.Build();
 

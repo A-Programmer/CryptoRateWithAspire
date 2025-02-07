@@ -11,12 +11,14 @@ builder.Services.AddControllersWithViews();
 builder.Services.AddHttpContextAccessor();
 
 builder.Services.AddScoped<IGenericHttpService, GenericHttpService>();
+
 builder.Services.AddHttpClient("Api", client =>
 {
 
     client.BaseAddress = new Uri(builder.Configuration["Clients:Api:BaseHttpsUrl"]);
     client.DefaultRequestHeaders.Clear();
     client.DefaultRequestHeaders.Add(HeaderNames.Accept, "application/json");
+
 });
 
 var app = builder.Build();

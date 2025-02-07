@@ -1,26 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\MrSad\\Projects\\Tests\\AspireTests\\AddToExistingProjects\\",
+  "WorkspaceRootPath": "C:\\Users\\MrSad\\Projects\\Interviews\\Okala\\WithAspire\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{277388B9-27E8-4B3A-AE07-15BEC7476874}|AddToExistingProjects.AppHost\\AddToExistingProjects.AppHost.csproj|c:\\users\\mrsad\\projects\\tests\\aspiretests\\addtoexistingprojects\\addtoexistingprojects.apphost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{277388B9-27E8-4B3A-AE07-15BEC7476874}|AddToExistingProjects.AppHost\\AddToExistingProjects.AppHost.csproj|solutionrelative:addtoexistingprojects.apphost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F25FD9F-F6BB-434D-9CC6-B5A339174D8C}|Project.Api\\Project.Api.csproj|c:\\users\\mrsad\\projects\\tests\\aspiretests\\addtoexistingprojects\\project.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F25FD9F-F6BB-434D-9CC6-B5A339174D8C}|Project.Api\\Project.Api.csproj|solutionrelative:project.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F25FD9F-F6BB-434D-9CC6-B5A339174D8C}|Project.Api\\Project.Api.csproj|c:\\users\\mrsad\\projects\\tests\\aspiretests\\addtoexistingprojects\\project.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{1F25FD9F-F6BB-434D-9CC6-B5A339174D8C}|Project.Api\\Project.Api.csproj|solutionrelative:project.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F28D4B6C-8720-4ED3-B2D7-D0F9ED314911}|Project.MvcClient\\Project.MvcClient.csproj|c:\\users\\mrsad\\projects\\tests\\aspiretests\\addtoexistingprojects\\project.mvcclient\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{F28D4B6C-8720-4ED3-B2D7-D0F9ED314911}|Project.MvcClient\\Project.MvcClient.csproj|solutionrelative:project.mvcclient\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F28D4B6C-8720-4ED3-B2D7-D0F9ED314911}|Project.MvcClient\\Project.MvcClient.csproj|c:\\users\\mrsad\\projects\\tests\\aspiretests\\addtoexistingprojects\\project.mvcclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F28D4B6C-8720-4ED3-B2D7-D0F9ED314911}|Project.MvcClient\\Project.MvcClient.csproj|c:\\users\\mrsad\\projects\\interviews\\okala\\withaspire\\project.mvcclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F28D4B6C-8720-4ED3-B2D7-D0F9ED314911}|Project.MvcClient\\Project.MvcClient.csproj|solutionrelative:project.mvcclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F28D4B6C-8720-4ED3-B2D7-D0F9ED314911}|Project.MvcClient\\Project.MvcClient.csproj|c:\\users\\mrsad\\projects\\interviews\\okala\\withaspire\\project.mvcclient\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F28D4B6C-8720-4ED3-B2D7-D0F9ED314911}|Project.MvcClient\\Project.MvcClient.csproj|solutionrelative:project.mvcclient\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F28D4B6C-8720-4ED3-B2D7-D0F9ED314911}|Project.MvcClient\\Project.MvcClient.csproj|c:\\users\\mrsad\\projects\\interviews\\okala\\withaspire\\project.mvcclient\\controllers\\cryptocurrenciescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F28D4B6C-8720-4ED3-B2D7-D0F9ED314911}|Project.MvcClient\\Project.MvcClient.csproj|solutionrelative:project.mvcclient\\controllers\\cryptocurrenciescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F25FD9F-F6BB-434D-9CC6-B5A339174D8C}|Project.Api\\Project.Api.csproj|c:\\users\\mrsad\\projects\\interviews\\okala\\withaspire\\project.api\\controllers\\cryptocurrencyratecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F25FD9F-F6BB-434D-9CC6-B5A339174D8C}|Project.Api\\Project.Api.csproj|solutionrelative:project.api\\controllers\\cryptocurrencyratecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F25FD9F-F6BB-434D-9CC6-B5A339174D8C}|Project.Api\\Project.Api.csproj|c:\\users\\mrsad\\projects\\interviews\\okala\\withaspire\\project.api\\services\\generichttpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F25FD9F-F6BB-434D-9CC6-B5A339174D8C}|Project.Api\\Project.Api.csproj|solutionrelative:project.api\\services\\generichttpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F28D4B6C-8720-4ED3-B2D7-D0F9ED314911}|Project.MvcClient\\Project.MvcClient.csproj|c:\\users\\mrsad\\projects\\interviews\\okala\\withaspire\\project.mvcclient\\services\\generichttpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F28D4B6C-8720-4ED3-B2D7-D0F9ED314911}|Project.MvcClient\\Project.MvcClient.csproj|solutionrelative:project.mvcclient\\services\\generichttpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F25FD9F-F6BB-434D-9CC6-B5A339174D8C}|Project.Api\\Project.Api.csproj|c:\\users\\mrsad\\projects\\interviews\\okala\\withaspire\\project.api\\controllers\\peoplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F25FD9F-F6BB-434D-9CC6-B5A339174D8C}|Project.Api\\Project.Api.csproj|solutionrelative:project.api\\controllers\\peoplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F28D4B6C-8720-4ED3-B2D7-D0F9ED314911}|Project.MvcClient\\Project.MvcClient.csproj|c:\\users\\mrsad\\projects\\interviews\\okala\\withaspire\\project.mvcclient\\views\\cryptocurrencies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F28D4B6C-8720-4ED3-B2D7-D0F9ED314911}|Project.MvcClient\\Project.MvcClient.csproj|solutionrelative:project.mvcclient\\views\\cryptocurrencies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F28D4B6C-8720-4ED3-B2D7-D0F9ED314911}|Project.MvcClient\\Project.MvcClient.csproj|c:\\users\\mrsad\\projects\\interviews\\okala\\withaspire\\project.mvcclient\\controllers\\peoplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F28D4B6C-8720-4ED3-B2D7-D0F9ED314911}|Project.MvcClient\\Project.MvcClient.csproj|solutionrelative:project.mvcclient\\controllers\\peoplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F25FD9F-F6BB-434D-9CC6-B5A339174D8C}|Project.Api\\Project.Api.csproj|c:\\users\\mrsad\\projects\\interviews\\okala\\withaspire\\project.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1F25FD9F-F6BB-434D-9CC6-B5A339174D8C}|Project.Api\\Project.Api.csproj|solutionrelative:project.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,67 +58,132 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\MrSad\\Projects\\Tests\\AspireTests\\AddToExistingProjects\\Project.MvcClient\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "Project.MvcClient\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\MrSad\\Projects\\Tests\\AspireTests\\AddToExistingProjects\\Project.MvcClient\\appsettings.Development.json",
-              "RelativeToolTip": "Project.MvcClient\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-03T16:32:40.51Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\MrSad\\Projects\\Tests\\AspireTests\\AddToExistingProjects\\Project.Api\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "Project.Api\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\MrSad\\Projects\\Tests\\AspireTests\\AddToExistingProjects\\Project.Api\\appsettings.Development.json",
-              "RelativeToolTip": "Project.Api\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-03T16:32:24.755Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\MrSad\\Projects\\Tests\\AspireTests\\AddToExistingProjects\\Project.Api\\Program.cs",
-              "RelativeDocumentMoniker": "Project.Api\\Program.cs",
-              "ToolTip": "C:\\Users\\MrSad\\Projects\\Tests\\AspireTests\\AddToExistingProjects\\Project.Api\\Program.cs",
-              "RelativeToolTip": "Project.Api\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAABIAAAAAAAAAA==",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\MrSad\\Projects\\Interviews\\Okala\\WithAspire\\Project.MvcClient\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Project.MvcClient\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\MrSad\\Projects\\Interviews\\Okala\\WithAspire\\Project.MvcClient\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Project.MvcClient\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-07T08:11:01.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PeopleController.cs",
+              "DocumentMoniker": "C:\\Users\\MrSad\\Projects\\Interviews\\Okala\\WithAspire\\Project.Api\\Controllers\\PeopleController.cs",
+              "RelativeDocumentMoniker": "Project.Api\\Controllers\\PeopleController.cs",
+              "ToolTip": "C:\\Users\\MrSad\\Projects\\Interviews\\Okala\\WithAspire\\Project.Api\\Controllers\\PeopleController.cs",
+              "RelativeToolTip": "Project.Api\\Controllers\\PeopleController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T16:30:45.6Z",
+              "WhenOpened": "2025-02-06T21:12:16.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CryptoCurrencyRateController.cs",
+              "DocumentMoniker": "C:\\Users\\MrSad\\Projects\\Interviews\\Okala\\WithAspire\\Project.Api\\Controllers\\CryptoCurrencyRateController.cs",
+              "RelativeDocumentMoniker": "Project.Api\\Controllers\\CryptoCurrencyRateController.cs",
+              "ToolTip": "C:\\Users\\MrSad\\Projects\\Interviews\\Okala\\WithAspire\\Project.Api\\Controllers\\CryptoCurrencyRateController.cs",
+              "RelativeToolTip": "Project.Api\\Controllers\\CryptoCurrencyRateController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAcwBwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T22:08:18.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MrSad\\Projects\\Interviews\\Okala\\WithAspire\\Project.MvcClient\\Views\\CryptoCurrencies\\Index.cshtml",
+              "RelativeDocumentMoniker": "Project.MvcClient\\Views\\CryptoCurrencies\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MrSad\\Projects\\Interviews\\Okala\\WithAspire\\Project.MvcClient\\Views\\CryptoCurrencies\\Index.cshtml",
+              "RelativeToolTip": "Project.MvcClient\\Views\\CryptoCurrencies\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-06T22:13:35.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GenericHttpService.cs",
+              "DocumentMoniker": "C:\\Users\\MrSad\\Projects\\Interviews\\Okala\\WithAspire\\Project.MvcClient\\Services\\GenericHttpService.cs",
+              "RelativeDocumentMoniker": "Project.MvcClient\\Services\\GenericHttpService.cs",
+              "ToolTip": "C:\\Users\\MrSad\\Projects\\Interviews\\Okala\\WithAspire\\Project.MvcClient\\Services\\GenericHttpService.cs",
+              "RelativeToolTip": "Project.MvcClient\\Services\\GenericHttpService.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAUwD0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T21:12:16.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GenericHttpService.cs",
+              "DocumentMoniker": "C:\\Users\\MrSad\\Projects\\Interviews\\Okala\\WithAspire\\Project.Api\\Services\\GenericHttpService.cs",
+              "RelativeDocumentMoniker": "Project.Api\\Services\\GenericHttpService.cs",
+              "ToolTip": "C:\\Users\\MrSad\\Projects\\Interviews\\Okala\\WithAspire\\Project.Api\\Services\\GenericHttpService.cs",
+              "RelativeToolTip": "Project.Api\\Services\\GenericHttpService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAABYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T21:12:16.439Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\MrSad\\Projects\\Tests\\AspireTests\\AddToExistingProjects\\AddToExistingProjects.AppHost\\Program.cs",
-              "RelativeDocumentMoniker": "AddToExistingProjects.AppHost\\Program.cs",
-              "ToolTip": "C:\\Users\\MrSad\\Projects\\Tests\\AspireTests\\AddToExistingProjects\\AddToExistingProjects.AppHost\\Program.cs",
-              "RelativeToolTip": "AddToExistingProjects.AppHost\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\MrSad\\Projects\\Interviews\\Okala\\WithAspire\\Project.MvcClient\\Program.cs",
+              "RelativeDocumentMoniker": "Project.MvcClient\\Program.cs",
+              "ToolTip": "C:\\Users\\MrSad\\Projects\\Interviews\\Okala\\WithAspire\\Project.MvcClient\\Program.cs",
+              "RelativeToolTip": "Project.MvcClient\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACgAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T16:09:49.794Z",
+              "WhenOpened": "2025-02-06T21:10:46.305Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\MrSad\\Projects\\Tests\\AspireTests\\AddToExistingProjects\\Project.MvcClient\\Program.cs",
-              "RelativeDocumentMoniker": "Project.MvcClient\\Program.cs",
-              "ToolTip": "C:\\Users\\MrSad\\Projects\\Tests\\AspireTests\\AddToExistingProjects\\Project.MvcClient\\Program.cs",
-              "RelativeToolTip": "Project.MvcClient\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "PeopleController.cs",
+              "DocumentMoniker": "C:\\Users\\MrSad\\Projects\\Interviews\\Okala\\WithAspire\\Project.MvcClient\\Controllers\\PeopleController.cs",
+              "RelativeDocumentMoniker": "Project.MvcClient\\Controllers\\PeopleController.cs",
+              "ToolTip": "C:\\Users\\MrSad\\Projects\\Interviews\\Okala\\WithAspire\\Project.MvcClient\\Controllers\\PeopleController.cs",
+              "RelativeToolTip": "Project.MvcClient\\Controllers\\PeopleController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T15:52:16.004Z",
+              "WhenOpened": "2025-02-06T21:04:22.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CryptoCurrenciesController.cs",
+              "DocumentMoniker": "C:\\Users\\MrSad\\Projects\\Interviews\\Okala\\WithAspire\\Project.MvcClient\\Controllers\\CryptoCurrenciesController.cs",
+              "RelativeDocumentMoniker": "Project.MvcClient\\Controllers\\CryptoCurrenciesController.cs",
+              "ToolTip": "C:\\Users\\MrSad\\Projects\\Interviews\\Okala\\WithAspire\\Project.MvcClient\\Controllers\\CryptoCurrenciesController.cs",
+              "RelativeToolTip": "Project.MvcClient\\Controllers\\CryptoCurrenciesController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwBgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T20:06:40.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\MrSad\\Projects\\Interviews\\Okala\\WithAspire\\Project.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Project.Api\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\MrSad\\Projects\\Interviews\\Okala\\WithAspire\\Project.Api\\appsettings.Development.json",
+              "RelativeToolTip": "Project.Api\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-06T20:45:56.595Z",
               "EditorCaption": ""
             }
           ]

@@ -1,8 +1,8 @@
 var builder = DistributedApplication.CreateBuilder(args);
 
-var password = builder.AddParameter("password", "0DvR3Sanew1V(xw!KBgJ*J");
+var password = builder.AddParameter("password", "123");
 
-var sql = builder.AddSqlServer("sql", password, 63847)
+var sql = builder.AddSqlServer("sqlServer", password, 1433)
     .WithLifetime(ContainerLifetime.Persistent)
     .WithDataVolume("SqlServerVolume");
 
