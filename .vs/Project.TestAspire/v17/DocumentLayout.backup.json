@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{F28D4B6C-8720-4ED3-B2D7-D0F9ED314911}|Project.MvcClient\\Project.MvcClient.csproj|solutionrelative:project.mvcclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{1F25FD9F-F6BB-434D-9CC6-B5A339174D8C}|Project.Api\\Project.Api.csproj|c:\\users\\mrsad\\projects\\interviews\\okala\\withaspire\\project.api\\services\\generichttpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F25FD9F-F6BB-434D-9CC6-B5A339174D8C}|Project.Api\\Project.Api.csproj|solutionrelative:project.api\\services\\generichttpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F28D4B6C-8720-4ED3-B2D7-D0F9ED314911}|Project.MvcClient\\Project.MvcClient.csproj|c:\\users\\mrsad\\projects\\interviews\\okala\\withaspire\\project.mvcclient\\views\\cryptocurrencies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F28D4B6C-8720-4ED3-B2D7-D0F9ED314911}|Project.MvcClient\\Project.MvcClient.csproj|solutionrelative:project.mvcclient\\views\\cryptocurrencies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F28D4B6C-8720-4ED3-B2D7-D0F9ED314911}|Project.MvcClient\\Project.MvcClient.csproj|c:\\users\\mrsad\\projects\\interviews\\okala\\withaspire\\project.mvcclient\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F28D4B6C-8720-4ED3-B2D7-D0F9ED314911}|Project.MvcClient\\Project.MvcClient.csproj|solutionrelative:project.mvcclient\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -19,20 +27,12 @@
       "RelativeMoniker": "D:0:0:{1F25FD9F-F6BB-434D-9CC6-B5A339174D8C}|Project.Api\\Project.Api.csproj|solutionrelative:project.api\\controllers\\cryptocurrencyratecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F25FD9F-F6BB-434D-9CC6-B5A339174D8C}|Project.Api\\Project.Api.csproj|c:\\users\\mrsad\\projects\\interviews\\okala\\withaspire\\project.api\\services\\generichttpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F25FD9F-F6BB-434D-9CC6-B5A339174D8C}|Project.Api\\Project.Api.csproj|solutionrelative:project.api\\services\\generichttpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F28D4B6C-8720-4ED3-B2D7-D0F9ED314911}|Project.MvcClient\\Project.MvcClient.csproj|c:\\users\\mrsad\\projects\\interviews\\okala\\withaspire\\project.mvcclient\\services\\generichttpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F28D4B6C-8720-4ED3-B2D7-D0F9ED314911}|Project.MvcClient\\Project.MvcClient.csproj|solutionrelative:project.mvcclient\\services\\generichttpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1F25FD9F-F6BB-434D-9CC6-B5A339174D8C}|Project.Api\\Project.Api.csproj|c:\\users\\mrsad\\projects\\interviews\\okala\\withaspire\\project.api\\controllers\\peoplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F25FD9F-F6BB-434D-9CC6-B5A339174D8C}|Project.Api\\Project.Api.csproj|solutionrelative:project.api\\controllers\\peoplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F28D4B6C-8720-4ED3-B2D7-D0F9ED314911}|Project.MvcClient\\Project.MvcClient.csproj|c:\\users\\mrsad\\projects\\interviews\\okala\\withaspire\\project.mvcclient\\views\\cryptocurrencies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F28D4B6C-8720-4ED3-B2D7-D0F9ED314911}|Project.MvcClient\\Project.MvcClient.csproj|solutionrelative:project.mvcclient\\views\\cryptocurrencies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F28D4B6C-8720-4ED3-B2D7-D0F9ED314911}|Project.MvcClient\\Project.MvcClient.csproj|c:\\users\\mrsad\\projects\\interviews\\okala\\withaspire\\project.mvcclient\\controllers\\peoplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,7 +58,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\MrSad\\Projects\\Interviews\\Okala\\WithAspire\\Project.MvcClient\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Project.MvcClient\\Views\\Shared\\_Layout.cshtml",
@@ -71,7 +71,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "PeopleController.cs",
               "DocumentMoniker": "C:\\Users\\MrSad\\Projects\\Interviews\\Okala\\WithAspire\\Project.Api\\Controllers\\PeopleController.cs",
               "RelativeDocumentMoniker": "Project.Api\\Controllers\\PeopleController.cs",
@@ -84,7 +84,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "CryptoCurrencyRateController.cs",
               "DocumentMoniker": "C:\\Users\\MrSad\\Projects\\Interviews\\Okala\\WithAspire\\Project.Api\\Controllers\\CryptoCurrencyRateController.cs",
               "RelativeDocumentMoniker": "Project.Api\\Controllers\\CryptoCurrencyRateController.cs",
@@ -97,7 +97,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\MrSad\\Projects\\Interviews\\Okala\\WithAspire\\Project.MvcClient\\Views\\CryptoCurrencies\\Index.cshtml",
               "RelativeDocumentMoniker": "Project.MvcClient\\Views\\CryptoCurrencies\\Index.cshtml",
@@ -110,7 +110,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "GenericHttpService.cs",
               "DocumentMoniker": "C:\\Users\\MrSad\\Projects\\Interviews\\Okala\\WithAspire\\Project.MvcClient\\Services\\GenericHttpService.cs",
               "RelativeDocumentMoniker": "Project.MvcClient\\Services\\GenericHttpService.cs",
@@ -123,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "GenericHttpService.cs",
               "DocumentMoniker": "C:\\Users\\MrSad\\Projects\\Interviews\\Okala\\WithAspire\\Project.Api\\Services\\GenericHttpService.cs",
               "RelativeDocumentMoniker": "Project.Api\\Services\\GenericHttpService.cs",
@@ -162,7 +162,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "CryptoCurrenciesController.cs",
               "DocumentMoniker": "C:\\Users\\MrSad\\Projects\\Interviews\\Okala\\WithAspire\\Project.MvcClient\\Controllers\\CryptoCurrenciesController.cs",
               "RelativeDocumentMoniker": "Project.MvcClient\\Controllers\\CryptoCurrenciesController.cs",
